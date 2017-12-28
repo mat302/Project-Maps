@@ -1,0 +1,2 @@
+# Project-Maps
+This Project Maps, a map generator system that uses 5 sensors, a GPS chip and an accelerometer to gemerate maps live on a touch screen you can use while you generate these maps with many navigation features. You can also resuse the maps later on a personal computer simply out the micro SD card from the device. The maps are generated using your position with GPS coordinates and an accelerometer for more precision and 5 sensors to generate the walls around you.
