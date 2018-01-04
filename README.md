@@ -5,7 +5,8 @@ This is a simple blueprint of the project I made.
 ![Alt text](/screenshots/Untitled1.png?raw=true)
 This is how the system looks.
 ![Alt text](/screenshots/Untitled2.jpg?raw=true)
-More pictures coming soon!
+This is how it looks when you wear it.
+![Alt text](/screenshots/Untitled4.jpg?raw=true)
 
 
 Mathieu Godin
