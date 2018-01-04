@@ -5,3 +5,6 @@ This is a simple blueprint of the project I made.
 ![Alt text](/screenshots/Untitled1.png?raw=true)
 This is how the system looks.
 ![Alt text](/screenshots/Untitled2.jpg?raw=true)
+More pictures coming soon!
+
+Mathieu Godin
