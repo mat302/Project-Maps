@@ -6,6 +6,3 @@ That's how it looks when you wear it:
 A design I sketched at the beginning of the project:
 ![Alt text](/screenshots/Untitled.png?raw=true)
 ![Alt text](/screenshots/Untitled1.png?raw=true)
-
-
-Mathieu Godin
